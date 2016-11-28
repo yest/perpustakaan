@@ -11,4 +11,5 @@ package ptik;
  */
 public class Buku {
     private String isbn;
+    private String pengarang;
 }

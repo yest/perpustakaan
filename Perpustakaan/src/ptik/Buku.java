@@ -10,5 +10,5 @@ package ptik;
  * @author YudiantoSujana
  */
 public class Buku {
-    
+    private String isbn;
 }
